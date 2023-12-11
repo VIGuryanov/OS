@@ -30,15 +30,15 @@ void CompareFileWithDir(struct dirent* f1, DIR* target_dir, char* parent_dir_nam
                   while((c1=getc(file1))==(c2=getc(file2)) && c1!=EOF && c2!=EOF){}
                   if(c1==c2)
                   {
-						printf("Found match:\n");
+			printf("Found match:\n");
                         fprintf(output,"Found match:\n");
-						printf("%s and %s\n",f1->d_name,f2->d_name);
+			printf("%s and %s\n",f1->d_name,f2->d_name);
                         fprintf(output, "%s and %s\n",f1->d_name,f2->d_name);
                         struct stat st1;
                         struct stat st2;
                         stat(file1Path, &st1);
                         stat(file2Path, &st2);
-						printf("Sizes: %lu and %lu\n",st1.st_size, st2.st_size);
+			printf("Sizes: %lu and %lu\n",st1.st_size, st2.st_size);
                         fprintf(output, "Sizes: %lu and %lu\n",st1.st_size, st2.st_size);
                         struct tm *time1 = localtime(&(st1.st_ctim).tv_sec);
                         struct tm *time2 = localtime(&(st2.st_ctim).tv_sec);
@@ -46,13 +46,13 @@ void CompareFileWithDir(struct dirent* f1, DIR* target_dir, char* parent_dir_nam
                         char time_2[80];
                         strftime(time_1, 80, "%Y-%m-%d %H:%M:%S", time1);
                         strftime(time_2, 80, "%Y-%m-%d %H:%M:%S", time2);
-						printf("Created: %s and %s\n", time_1, time_2);
+			printf("Created: %s and %s\n", time_1, time_2);
                         fprintf(output, "Created: %s and %s\n", time_1, time_2);
-						printf("Access rights: %u and %u\n", st1.st_mode, st2.st_mode);
+			printf("Access rights: %u and %u\n", st1.st_mode, st2.st_mode);
                         fprintf(output, "Access rights: %u and %u\n", st1.st_mode, st2.st_mode);
-						printf("Index descriptor: %lu and %lu\n", st1.st_ino, st2.st_ino);
+			printf("Index descriptor: %lu and %lu\n", st1.st_ino, st2.st_ino);
                         fprintf(output, "Index descriptor: %lu and %lu\n", st1.st_ino, st2.st_ino);
-						printf("\n");
+			printf("\n");
                         fprintf(output, "\n");
                   }
                   fclose(file2);
