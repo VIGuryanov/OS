@@ -1,0 +1,265 @@
+Found match:
+outwrong.txt and outwrong.txt
+Sizes: 36 and 36
+Created: 2023-11-15 14:19:06 and 2023-11-15 14:19:06
+Access rights: 33188 and 33188
+Index descriptor: 30830 and 30830
+
+Found match:
+task6.sh.save and task6.sh.save
+Sizes: 396 and 396
+Created: 2023-11-15 14:47:30 and 2023-11-15 14:47:30
+Access rights: 33252 and 33252
+Index descriptor: 30832 and 30832
+
+Found match:
+out.txt and out.txt
+Sizes: 36 and 36
+Created: 2023-11-15 13:39:21 and 2023-11-15 13:39:21
+Access rights: 33188 and 33188
+Index descriptor: 30826 and 30826
+
+Found match:
+out.txt and outtrue.txt
+Sizes: 36 and 36
+Created: 2023-11-15 14:18:42 and 2023-11-15 14:18:42
+Access rights: 33188 and 33188
+Index descriptor: 30826 and 30831
+
+Found match:
+testfortask5.txt and testfortask5.txt
+Sizes: 446 and 446
+Created: 2023-11-16 15:33:02 and 2023-11-16 15:33:02
+Access rights: 33188 and 33188
+Index descriptor: 221 and 221
+
+Found match:
+task3.sh and task3.sh
+Sizes: 42 and 42
+Created: 2023-11-14 15:35:54 and 2023-11-14 15:35:54
+Access rights: 33252 and 33252
+Index descriptor: 30825 and 30825
+
+Found match:
+3.exe and 3.exe
+Sizes: 16208 and 16208
+Created: 2023-12-01 16:10:16 and 2023-12-01 16:10:16
+Access rights: 33261 and 33261
+Index descriptor: 30839 and 30839
+
+Found match:
+7.c and 7.c
+Sizes: 4647 and 4647
+Created: 2023-12-08 11:24:52 and 2023-12-08 11:24:52
+Access rights: 33188 and 33188
+Index descriptor: 7493 and 7493
+
+Found match:
+6.c and 6.c
+Sizes: 855 and 855
+Created: 2023-12-01 19:25:11 and 2023-12-01 19:25:11
+Access rights: 33188 and 33188
+Index descriptor: 30849 and 30849
+
+Found match:
+5.exe and 5.exe
+Sizes: 16296 and 16296
+Created: 2023-12-01 19:34:45 and 2023-12-01 19:34:45
+Access rights: 33261 and 33261
+Index descriptor: 30844 and 30844
+
+Found match:
+3.out and 3.out
+Sizes: 15 and 15
+Created: 2023-12-08 11:40:49 and 2023-12-08 11:40:49
+Access rights: 33188 and 33188
+Index descriptor: 30843 and 30843
+
+Found match:
+3.out and 3.new
+Sizes: 15 and 15
+Created: 2023-12-08 12:19:09 and 2023-12-08 12:19:09
+Access rights: 33188 and 33188
+Index descriptor: 30843 and 225
+
+Found match:
+4.c and 4.c
+Sizes: 772 and 772
+Created: 2023-12-08 11:56:32 and 2023-12-08 11:56:32
+Access rights: 33188 and 33188
+Index descriptor: 30842 and 30842
+
+Found match:
+6.exe and 6.exe
+Sizes: 16208 and 16208
+Created: 2023-12-01 19:25:14 and 2023-12-01 19:25:14
+Access rights: 33261 and 33261
+Index descriptor: 30846 and 30846
+
+Found match:
+eee.txt and eee.txt
+Sizes: 0 and 0
+Created: 2023-12-11 09:31:13 and 2023-12-11 09:31:13
+Access rights: 33188 and 33188
+Index descriptor: 242 and 242
+
+Found match:
+2.c and 2.c
+Sizes: 63 and 63
+Created: 2023-11-30 17:01:52 and 2023-11-30 17:01:52
+Access rights: 33188 and 33188
+Index descriptor: 30837 and 30837
+
+Found match:
+3.copy and 3.copy
+Sizes: 85 and 85
+Created: 2023-12-01 21:41:45 and 2023-12-01 21:41:45
+Access rights: 33188 and 33188
+Index descriptor: 30852 and 30852
+
+Found match:
+5.c and 5.c
+Sizes: 718 and 718
+Created: 2023-12-01 19:34:44 and 2023-12-01 19:34:44
+Access rights: 33188 and 33188
+Index descriptor: 30845 and 30845
+
+Found match:
+3.c and 3.c
+Sizes: 438 and 438
+Created: 2023-12-01 16:09:59 and 2023-12-01 16:09:59
+Access rights: 33188 and 33188
+Index descriptor: 30840 and 30840
+
+Found match:
+2.exe and 2.exe
+Sizes: 15960 and 15960
+Created: 2023-11-30 17:01:54 and 2023-11-30 17:01:54
+Access rights: 33261 and 33261
+Index descriptor: 30838 and 30838
+
+Found match:
+3.new and 3.out
+Sizes: 15 and 15
+Created: 2023-12-08 11:40:49 and 2023-12-08 11:40:49
+Access rights: 33188 and 33188
+Index descriptor: 225 and 30843
+
+Found match:
+3.new and 3.new
+Sizes: 15 and 15
+Created: 2023-12-08 12:19:09 and 2023-12-08 12:19:09
+Access rights: 33188 and 33188
+Index descriptor: 225 and 225
+
+Found match:
+7.exe and 7.exe
+Sizes: 16936 and 16936
+Created: 2023-12-08 11:25:00 and 2023-12-08 11:25:00
+Access rights: 33261 and 33261
+Index descriptor: 224 and 224
+
+Found match:
+4.exe and 4.exe
+Sizes: 16256 and 16256
+Created: 2023-12-08 11:56:45 and 2023-12-08 11:56:45
+Access rights: 33261 and 33261
+Index descriptor: 219 and 219
+
+Found match:
+task6.sh and task6.sh
+Sizes: 523 and 523
+Created: 2023-11-18 05:57:49 and 2023-11-18 05:57:49
+Access rights: 33252 and 33252
+Index descriptor: 30828 and 30828
+
+Found match:
+task4.sh and task4.sh
+Sizes: 201 and 201
+Created: 2023-11-15 13:39:09 and 2023-11-15 13:39:09
+Access rights: 33252 and 33252
+Index descriptor: 30827 and 30827
+
+Found match:
+task7.sh and task7.sh
+Sizes: 62 and 62
+Created: 2023-11-16 16:22:51 and 2023-11-16 16:22:51
+Access rights: 33252 and 33252
+Index descriptor: 222 and 222
+
+Found match:
+1.c and 1.c
+Sizes: 64 and 64
+Created: 2023-11-16 16:10:58 and 2023-11-16 16:10:58
+Access rights: 33188 and 33188
+Index descriptor: 223 and 223
+
+Found match:
+task8.sh and task8.sh
+Sizes: 484 and 484
+Created: 2023-11-16 19:08:45 and 2023-11-16 19:08:45
+Access rights: 33252 and 33252
+Index descriptor: 243 and 243
+
+Found match:
+169kb.txt and 169kb.txt
+Sizes: 173097 and 173097
+Created: 2023-11-16 18:22:24 and 2023-11-16 18:22:24
+Access rights: 33152 and 33152
+Index descriptor: 30833 and 30833
+
+Found match:
+task5.sh and task5.sh
+Sizes: 124 and 124
+Created: 2023-11-18 06:07:55 and 2023-11-18 06:07:55
+Access rights: 33252 and 33252
+Index descriptor: 30829 and 30829
+
+Found match:
+task3_Out and task3_Out
+Sizes: 78 and 78
+Created: 2023-11-16 18:04:18 and 2023-11-16 18:04:18
+Access rights: 33188 and 33188
+Index descriptor: 30823 and 30823
+
+Found match:
+outtrue.txt and out.txt
+Sizes: 36 and 36
+Created: 2023-11-15 13:39:21 and 2023-11-15 13:39:21
+Access rights: 33188 and 33188
+Index descriptor: 30831 and 30826
+
+Found match:
+outtrue.txt and outtrue.txt
+Sizes: 36 and 36
+Created: 2023-11-15 14:18:42 and 2023-11-15 14:18:42
+Access rights: 33188 and 33188
+Index descriptor: 30831 and 30831
+
+Found match:
+.task7.sh.swp and .task7.sh.swp
+Sizes: 1024 and 1024
+Created: 2023-11-18 06:20:14 and 2023-11-18 06:20:14
+Access rights: 33188 and 33188
+Index descriptor: 30835 and 30835
+
+Found match:
+copypasttest.cop and copypasttest.cop
+Sizes: 48 and 48
+Created: 2023-11-16 16:17:23 and 2023-11-16 16:17:23
+Access rights: 33188 and 33188
+Index descriptor: 227 and 227
+
+Found match:
+error.txt and error.txt
+Sizes: 57 and 57
+Created: 2023-11-18 06:08:06 and 2023-11-18 06:08:06
+Access rights: 33188 and 33188
+Index descriptor: 30834 and 30834
+
+Found match:
+1_11mb.txt and 1_11mb.txt
+Sizes: 1160479 and 1160479
+Created: 2023-11-16 18:40:06 and 2023-11-16 18:40:06
+Access rights: 33152 and 33152
+Index descriptor: 226 and 226
